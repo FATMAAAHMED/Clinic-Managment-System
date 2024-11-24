@@ -1,0 +1,19 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.class
+*.dll
+
+# Ignore system files
+.DS_Store
+Thumbs.db
